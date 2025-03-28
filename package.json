@@ -1,0 +1,12 @@
+{
+  "name": "mapbox-la-style",
+  "version": "1.0.0",
+  "description": "Create a Los Angeles map with Castle Valley styling",
+  "main": "create_la_style.js",
+  "scripts": {
+    "start": "node create_la_style.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.9"
+  }
+}
